@@ -15,7 +15,8 @@ This is Google Books search engine using graphql and apollo server.
 
 # Screenshot
 
-<img src="client/src/assets/images/screenshot_booksearch.png">
+<img src="client/src/assets/images/screenshot_booksearch1.png">
+<img src="client/src/assets/images/screenshot_booksearch2.png">
 
 # Link
 
